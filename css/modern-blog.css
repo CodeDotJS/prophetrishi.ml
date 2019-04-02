@@ -50,7 +50,7 @@
 	width: 100%;
 	max-width: 800px;
 	height: auto;
-	margin: 400px auto 60px;
+	margin: 10% auto 60px;
 	padding: 30px 40px 22px;
 	background: #fff;
 }
@@ -101,7 +101,7 @@
 }
 
 .card__copy {
-	font-size: 1.25em;
+	font-size: 1.125em;
 	max-width: 900px;
 	margin: 0 auto;
 	padding: 25px 30px 100px;
@@ -109,7 +109,7 @@
 }
 
 .card__copy p:first-of-type {
-	font-size: 1.5em;
+	font-size: 1em;
 	padding: 0 0 1em 0;
 }
 
@@ -229,7 +229,7 @@ body.body--hidden .header {
 
 a {
 	text-decoration: none;
-	color: #de6551;
+	color: #de6551 !important;
 	outline: none;
 }
 
@@ -355,4 +355,21 @@ a:focus {
 .ff .polygon {
 	-webkit-transform: scale(1)!important;
 	transform: scale(1)!important;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+.post-image {
+	width: 90%;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
