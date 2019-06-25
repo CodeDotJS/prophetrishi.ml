@@ -13,13 +13,13 @@ __Welcome back, check out this week's ~__
 
 🔊 <small>Play Songs on Full Sound Pls</small>
 
-- __[Katelyn Tarver - You Don't Know](https://youtu.be/BF-nZziUCCY)__
+- __[Ludovico Einaudi - Divenire](https://youtu.be/b8SkX9CSJQo)__
 
-<center><iframe src="https://www.youtube.com/embed/BF-nZziUCCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe src="https://www.youtube.com/embed/b8SkX9CSJQo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-- __[Chord Overstreet - Hold On](https://youtu.be/8ofCZObsnOo)__
+- __[Ludovico Einaudi - Oltremare](https://youtu.be/R8MzHqkNBwo)__
 
-<center><iframe src="https://www.youtube.com/embed/8ofCZObsnOo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe src="https://www.youtube.com/embed/R8MzHqkNBwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <br>
 
